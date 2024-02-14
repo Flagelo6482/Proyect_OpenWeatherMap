@@ -1,0 +1,41 @@
+/*  */
+.nav_bar {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* gap: 20px; */
+
+    color: white;
+    background-color: black;
+}
+.logo_api {
+    /* margin-top: 10px; */
+    width: 180px;
+}
+
+/* CONTE 1 */
+.nav_bar_2 h2,
+.nav_bar_2 img {
+    display: inline-block;
+    vertical-align: middle; /* Alinea verticalmente los elementos */
+}
+.nav_bar_2 h2 {
+    margin-right: 50px; /* Ajusta el valor según el espacio deseado */
+    
+}
+
+
+
+/* BOTON DE CIERRE SESION */
+.btn_end {
+    margin-top: 30px;
+    transition: transform 0.2s;
+    
+    border-radius: 15px;
+}
+.btn_end:hover {
+    transform: scale(1.1);
+}

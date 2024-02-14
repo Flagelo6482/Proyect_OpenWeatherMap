@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  /* margin: 0; */
+  /* padding: 0; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* CONTENEDOR PRINCIPAL */
+.loginC {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 90%;
+  margin: 40px auto;
+  max-width: 1500px;
+  padding: 40px auto;
+  gap: 20px;
+  height: 50vh;
+
+  
+  /* border: 1px solid red; */
+}
+
+/* CONTENEDOR 1 */
+.cont_1 {
+  border: 1px solid rgb(77, 73, 73);
+  border-radius: 40px;
+  padding: 47px 50px 0px 50px;
+  text-align: center;
+  width: 70%;
+  margin-left: auto;
+
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  box-shadow: 0 0px 20px rgba(0, 0, 0, 0.3);
+  /* background-color: white; */
+}
+/* CONTENEDOR PEQUEÑO 1 */
+.cont_1_form{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  /* border: 1px solid black; */
+}
+.cont_1_form input {
+  padding: 15px;
+  width: 100%;
+  margin-top: 30px;
+  
+  border-radius: 10px;
+  border: 1px solid rgb(165, 163, 163);
+  transition: transform 0.2s;
+}
+.cont_1_form input:hover {
+  transform: scale(1.1);
+}
+.cont_1_form  button{
+  border: none;
+  border-radius: 15px;
+  padding: 15px 30px;
+
+  background-color: #004599;
+  color: white;
+  font-weight: bolder;
+  transition: transform 0.2s; /* Añade transición suave para el cambio de tamaño */
+}
+.cont_1_form  button:hover {
+  cursor: pointer;
+  transform: scale(1.1); /* Ajusta el valor según el tamaño deseado */
+}
+.caja:focus {
+  outline: 1px solid cornflowerblue;
+  box-shadow: 0 0 10px cornflowerblue;
+}
+
+/* CONTENEDOR PEQUEÑO 2 */
+.cont_2_form {
+  margin-top: 50px;
+  height: 150px;
+  /* border: 1px solid red; */
+}
+.cont_2_form button {
+  margin-top: 50px;
+  margin-left: 20px; /* Ajusta el valor según el espacio deseado */
+
+  border: none;
+  border-radius: 15px;
+  padding: 10px 30px;
+
+  background-color: #004599;
+  color: white;
+  font-weight: bolder;
+  transition: transform 0.2s; /* Añade transición suave para el cambio de tamaño */
+}
+.cont_2_form  button:hover {
+  cursor: pointer;
+  transform: scale(1.1); /* Ajusta el valor según el tamaño deseado */
+}
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+/* PRINCIPAL */
+.navC {
+    width: 100%;
+    height: 100px;
+    border-bottom: 3px solid blue;
+
+    background-color: rgb(0, 132, 255);
+    box-shadow: 0 0px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* CONTENEDOR DE LA IMAGEN */
+.nav_title {
+    
+    text-align: center;
+}
+
+/* IMAGEN */
+.logo_api {
+    margin-top: 8px;
+    width: 180px;
+}
