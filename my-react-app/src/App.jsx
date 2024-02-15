@@ -15,6 +15,7 @@ function App() {
   const [usuario, setUsuario] = useState(null);
 
   // Usamos la funcion que traimos de firebase para conocer el ESTADO DE AUTENTICACION, agregando la autenticacion 'auth' y tambien creamos un parametro para verificar si estamos logeados o registrados vamos a guardar la informacion del usuario en la variable setUsuario
+  // Con onAuthStateChanged nos permite registrar un observador que se activa cada vez que cambia el estado de autenticación del usuario
   onAuthStateChanged(auth, (usuarioFirebase) => {
     if (usuarioFirebase) {
       setUsuario(usuarioFirebase);
