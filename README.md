@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-  <h2>Frameworks utilizados:</h2><br>
+  <h2 align="center">Frameworks utilizados:</h2><br>
   React, Vite, Bootstrap
 </p>
