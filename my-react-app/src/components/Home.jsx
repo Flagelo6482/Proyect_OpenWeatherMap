@@ -9,7 +9,7 @@ import Footer from "./Footer";
 
 // const auth = getAuth(appFirebase);
 
-const Home = ({ correoUsuario }) => {
+const Home = () => {
   return (
     <>
       <Navbar2 />

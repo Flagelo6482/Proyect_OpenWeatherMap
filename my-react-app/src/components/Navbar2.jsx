@@ -17,6 +17,7 @@ const Navbar2 = () => {
         </div>
         <div>
           <div className="btn_end">
+            {/* Con la funcion 'signOut' pasamos como parametro el auth del usuario hacemos el deslogeo de la pagina */}
             <button onClick={() => signOut(auth)} className="btn btn-primary input-group-text">
               Cerrar sesión
             </button>

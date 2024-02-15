@@ -13,6 +13,7 @@ const firebaseConfig = {
   appId: "1:57846249059:web:2d1b41e88caa1f67222a56"
 };
 
-// Initialize Firebase
+// Inicializamos la variable para usarlo en otros archivos
 const appFirebase = initializeApp(firebaseConfig);
 export default appFirebase;
+/* */
