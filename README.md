@@ -7,3 +7,5 @@
 <p align="center">
   <h2 align="center">Frameworks utilizados:</h2><br>
 </p>
+## Introducción
+Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap.org/api)
