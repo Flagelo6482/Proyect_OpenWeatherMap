@@ -6,4 +6,4 @@
 <hr>
 
 ## Introducción:
-Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap.org/api) con el fin de crear un p´r
+Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap.org/api) con el fin de crear un proyecto que reune la información de dicha API para mostrar al usuario con una interfaz dinamica para que pueda visualizar en tiempo real la ciudad que el usuario busque además de 3 predicciones de las próximas de dicha ciudad y muchas cosas más que tendra en cuenta el usuario!.
