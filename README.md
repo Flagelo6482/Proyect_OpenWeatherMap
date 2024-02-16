@@ -26,10 +26,18 @@ git clone https://github.com/Flagelo6482/Proyect_OpenWeatherMap.git
 ```
 
 ## Uso
-Este es el tercer párrafo del documento.
+El uso del proyecto está para las personas que quieran saber sobre el estado actual del clima y el estado de está en rangos horarios de 3, 6 y 9 horas aproximadamente
 
 ## Contribución
-Este es el cuarto párrafo del documento.
+Este proyecto está abierto a otros desarrolladores ya sean nuevos en este mundo o veteranos para que puedan realizar los cambios de mejora y conectarnos como colegas, así que si deseas contribuir con el proyecto modificandolo o agregando más funcionalidades bienvenido!
 
 ## Licencia
-Este es el quinto párrafo del documento.
+Este proyecto se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita. El propietario del proyecto no será responsable de ningún daño directo, indirecto, incidental, especial o consecuente que surja del uso o la imposibilidad de utilizar el proyecto.
+Este proyecto utiliza la biblioteca de [OpenWeather](https://openweathermap.org/api) desarrollada por [Autor](https://openweathermap.org/api).
+
+## Autor
+
+- [GitHub](https://github.com/Flagelo6482)
+- [LinkedIn](https://www.linkedin.com/in/francisco-jes%C3%BAs-sono-callla-820a6526a/)
+- [Twitter]()
+- [Facebook]()
