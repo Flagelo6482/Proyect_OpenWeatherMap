@@ -5,5 +5,5 @@
 </p>
 <hr>
 
-## Introducción
-Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap.org/api)
+## Introducción:
+Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap.org/api) con el fin de crear un p´r
