@@ -5,7 +5,6 @@
 </p>
 <hr>
 
-## Introducción:
 Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap.org/api) con el fin de crear un proyecto que reune la información de dicha API para mostrar al usuario con una interfaz dinamica para que pueda visualizar en tiempo real la ciudad que el usuario busque además de 3 predicciones de las próximas de dicha ciudad y muchas cosas más que tendra en cuenta el usuario!
 
 1. [Introducción](#introducción)
@@ -15,10 +14,16 @@ Este proyecto se basa en consumir la API de [OpenWeather](https://openweathermap
 5. [Licencia](#licencia)
 
 ## Introducción
-Este es el primer párrafo del documento.
+- El proyecto se basa en consumir la API de OpenWeather y mostrar al usuario los datos meteorologicos de una ciudad que el cliente busque, esta información es brindada gracias a la API a su vez mostrando el clima actual de dicha ciudad con unas predicciones de 3, 6 y 9 horas para que el usuario tome en cuenta está información al momento de verificar el estado del clima en su ciudad o ya sea en otra de cualquier parte del planeta.
+- Antes de que el cliente realize la busca de una ciudad tiene que Iniciar sesión con una cuenta si no tendria una cuenta registrada tendria que Registrarse y automaticamente ingresara a la página principal de búsqueda
+- Luego de ingresar a la página principal el usuario puede realizar la búsqueda de cualquier ciudad del planeta para que así muestre el clima actual con las predicciones ya mencionadas y además con unos datos como los son de temperatura, humedad, etc.
+- Tambien cuenta con un cierre de sesión para que terceros no logren ingresar a la cuenta del usuario gracias a las siguientes bibliotecas y frameworks que se muestran acontinuación.
 
 ## Instalación
-Este es el segundo párrafo del documento.
+La última versión disponible desde aquí se puede instalar con el siguiente comando:
+```sh
+git clone https://github.com/Flagelo6482/Proyect_OpenWeatherMap.git
+```
 
 ## Uso
 Este es el tercer párrafo del documento.
