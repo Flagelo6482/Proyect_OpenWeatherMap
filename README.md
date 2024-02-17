@@ -39,5 +39,5 @@ Este proyecto utiliza la biblioteca de [OpenWeather](https://openweathermap.org/
 
 - [GitHub](https://github.com/Flagelo6482)
 - [LinkedIn](https://www.linkedin.com/in/francisco-jes%C3%BAs-sono-callla-820a6526a/)
-- [Twitter]()
-- [Facebook]()
+- [Twitter](https://twitter.com/FrankSC6482)
+- [Facebook](https://www.facebook.com/Francisco.loquito)
